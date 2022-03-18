@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# Tests
+**/androidTest
+**/test
+
+#
+/build
+.gradle
+.idea

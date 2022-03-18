@@ -1,0 +1,17 @@
+# MacOS
+.DS_Store
+
+# Tests
+**/androidTest
+**/test
+
+# Default
+*.iml
+.gradle
+/local.properties
+.idea
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
